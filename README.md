@@ -23,11 +23,16 @@ Soy un administrador linux. 🚀
     <a href="https://github.com/walternoguera/calculadora_android">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=walternoguera&repo=calculadora_android&theme=dark" alt="Calculadora Android" />
     </a>
-    <a href="https://github.com/walternoguera/GestionRefugio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=walternoguera&repo=GestionRefugio&theme=dark" alt="GestionRefugio" />
-    </a>
   </p>
 </div>
-## 🌐 Encuéntrame en:
-- [Twitter](https://twitter.com/tuUsuario)
-- [LinkedIn](https://www.linkedin.com/in/tuUsuario/)
+## Contactame
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/walter-morel-noguera-079181134/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:walter.morel.noguera@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</div>
+
+</details>
